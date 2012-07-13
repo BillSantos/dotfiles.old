@@ -1,0 +1,11 @@
+[user]
+	name = William Santos
+	email = bill@home
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+    ui = auto
+[core]
+    askpass = /usr/lib/git-core/git-gui--askpass
